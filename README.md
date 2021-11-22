@@ -49,8 +49,7 @@ If you want to learn more about building native executables, please consult http
 
 ## Provided Code
 
-### RESTEasy JAX-RS
+https://camel.apache.org/camel-quarkus/next/reference/extensions/micrometer.html
+https://camel.apache.org/components/3.13.x/micrometer-component.html
 
-Easily start your RESTful Web Services
 
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
